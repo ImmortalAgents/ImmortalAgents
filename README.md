@@ -1,6 +1,5 @@
 # Immortal Agents: Create and Evolve Your Own AI Agents
 
-[![GitHub stars](https://img.shields.io/github/stars/immortal-agents/platform?style=social)](https://github.com/immortal-agents/platform)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ImmortalAgents?style=social)](https://twitter.com/ImmortalAgents)
 
 ## Overview
